@@ -55,7 +55,7 @@ export const MailOpen02Icon = (props: React.SVGProps<SVGSVGElement>) => (
       viewBox="0 0 24 24"
       width={24}
       height={24}
-      color="currentColor"
+      color={"#000000"}
       fill={"none"}
       {...props}
    >
@@ -79,7 +79,7 @@ export const GithubIcon = (props: React.SVGProps<SVGSVGElement>) => (
       viewBox="0 0 24 24"
       width={24}
       height={24}
-      color="currentColor"
+      color={"#000000"}
       fill={"none"}
       {...props}
    >
@@ -105,7 +105,7 @@ export const Github01Icon = (props: React.SVGProps<SVGSVGElement>) => (
       viewBox="0 0 24 24"
       width={24}
       height={24}
-      color="currentColor"
+      color={"#000000"}
       fill={"none"}
       {...props}
    >
@@ -124,7 +124,7 @@ export const Facebook02Icon = (props: React.SVGProps<SVGSVGElement>) => (
       viewBox="0 0 24 24"
       width={24}
       height={24}
-      color="currentColor"
+      color={"#000000"}
       fill={"none"}
       {...props}
    >
@@ -144,7 +144,7 @@ export const Facebook01Icon = (props: React.SVGProps<SVGSVGElement>) => (
       viewBox="0 0 24 24"
       width={24}
       height={24}
-      color="currentColor"
+      color={"#000000"}
       fill={"none"}
       {...props}
    >
@@ -169,7 +169,7 @@ export const InstagramIcon = (props: React.SVGProps<SVGSVGElement>) => (
       viewBox="0 0 24 24"
       width={24}
       height={24}
-      color="currentColor"
+      color={"#000000"}
       fill={"none"}
       {...props}
    >
@@ -199,7 +199,7 @@ export const TwitterIcon = (props: React.SVGProps<SVGSVGElement>) => (
       viewBox="0 0 24 24"
       width={24}
       height={24}
-      color="currentColor"
+      color={"#000000"}
       fill={"none"}
       {...props}
    >
@@ -217,7 +217,7 @@ export const NewTwitterIcon = (props: React.SVGProps<SVGSVGElement>) => (
       viewBox="0 0 24 24"
       width={24}
       height={24}
-      color="currentColor"
+      color={"#000000"}
       fill={"none"}
       {...props}
    >
@@ -236,7 +236,7 @@ export const TwitterSquareIcon = (props: React.SVGProps<SVGSVGElement>) => (
       viewBox="0 0 24 24"
       width={24}
       height={24}
-      color="currentColor"
+      color={"#000000"}
       fill={"none"}
       {...props}
    >
@@ -260,7 +260,7 @@ export const Search01Icon = (props: React.SVGProps<SVGSVGElement>) => (
       viewBox="0 0 24 24"
       width={24}
       height={24}
-      color="currentColor"
+      color={"#000000"}
       fill={"none"}
       {...props}
    >
@@ -285,7 +285,7 @@ export const Settings02Icon = (props: React.SVGProps<SVGSVGElement>) => (
       viewBox="0 0 24 24"
       width={24}
       height={24}
-      color="currentColor"
+      color={"#000000"}
       fill={"none"}
       {...props}
    >
@@ -308,7 +308,7 @@ export const Linkedin02Icon = (props: React.SVGProps<SVGSVGElement>) => (
       viewBox="0 0 24 24"
       width={24}
       height={24}
-      color="currentColor"
+      color={"#000000"}
       fill={"none"}
       {...props}
    >
