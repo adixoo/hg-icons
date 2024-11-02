@@ -2,7 +2,7 @@
    "name": "hg-icons",
    "module": "index.tsx",
    "type": "module",
-   "version": "1.0.5",
+   "version": "1.0.6",
    "author": "Aditya Kumar",
    "description": "Important Hugeicons icons",
    "devDependencies": {
